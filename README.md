@@ -1,2 +1,2 @@
 # CreateVM
-VM Create Using Power Shell
+Create VM Using Azure Power Shell CLI
